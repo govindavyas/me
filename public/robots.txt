@@ -1,0 +1,33 @@
+# Govind Vyas - Software Developer Portfolio
+# https://govindvyas.com
+
+User-agent: *
+Allow: /
+
+# Block access to sensitive areas
+Disallow: /admin/
+Disallow: /config/
+Disallow: /api/
+Disallow: /.env
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /*.log
+Disallow: /*.env
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /vite.config.ts
+Disallow: /tsconfig.json
+Disallow: /*.map
+
+# Allow important files
+Allow: /sitemap.xml
+
+# Sitemap location
+Sitemap: https://govindvyas.com/sitemap.xml
+Allow: /favicon.ico
+
+# Specify sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl delay for bot rate limiting
+Crawl-delay: 1

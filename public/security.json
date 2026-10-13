@@ -1,0 +1,45 @@
+{
+  "securityPolicy": {
+    "version": "1.0",
+    "lastUpdated": "2025-08-10",
+    "policies": {
+      "contentSecurityPolicy": {
+        "enforced": true,
+        "reportOnly": false
+      },
+      "rateLimiting": {
+        "enabled": true,
+        "formSubmissions": 3,
+        "timeWindow": 300000
+      },
+      "inputValidation": {
+        "enabled": true,
+        "xssProtection": true,
+        "sqlInjectionProtection": true
+      },
+      "secureHeaders": {
+        "enabled": true,
+        "httpsOnly": true
+      }
+    },
+    "allowedOrigins": [
+      "https://yourdomain.com",
+      "https://www.yourdomain.com"
+    ],
+    "blockedUserAgents": [
+      "bot",
+      "crawler",
+      "spider",
+      "scraper"
+    ],
+    "securityFeatures": [
+      "XSS Protection",
+      "CSRF Protection",
+      "Rate Limiting",
+      "Input Sanitization",
+      "Content Security Policy",
+      "Secure Headers",
+      "HTTPS Enforcement"
+    ]
+  }
+}

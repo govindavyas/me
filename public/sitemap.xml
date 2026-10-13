@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage - Govind Vyas Portfolio -->
+  <url>
+    <loc>https://govindvyas.com/</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Govind Vyas - Software Developer -->
+  <url>
+    <loc>https://govindvyas.com/#about</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Skills - Vue.js, Java, Node.js Developer -->
+  <url>
+    <loc>https://govindvyas.com/#skills</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Experience - Software Developer at FirstCry -->
+  <url>
+    <loc>https://govindvyas.com/#experience</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Projects - Web Development Portfolio -->
+  <url>
+    <loc>https://govindvyas.com/#projects</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Education -->
+  <url>
+    <loc>https://govindvyas.com/#education</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Achievements -->
+  <url>
+    <loc>https://govindvyas.com/#achievements</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Govind Vyas -->
+  <url>
+    <loc>https://govindvyas.com/#contact</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
